@@ -16,4 +16,4 @@ This is the repositry for the materials used for our paper "Towards a Token Cura
 
 **Experiment2.ipynb**
 - input: df_formatted.csv
-- output: experiment2.png, experiment2-surf.png (optional), experiment2-wireframe.png (optional)
+- output: experiment2.png
